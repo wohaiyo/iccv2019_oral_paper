@@ -1,7 +1,7 @@
 # iccv2019_oral_paper
-## dsfsdf
-### Exploring Randomly Wired Neural Networks for Image Recognition [Video]	Saining Xie, Alexander Kirillov, Ross Girshick, Kaiming He	634
-2	13:35	Progressive Differentiable Architecture Search: Bridging the Depth Gap Between Search and Evaluation [Video]	Xin Chen, Lingxi Xie, Jun Wu, Qi Tian	2397
+
+* Exploring Randomly Wired Neural Networks for Image Recognition [Video]	Saining Xie, Alexander Kirillov, Ross Girshick, Kaiming He	634
+* 2	13:35	Progressive Differentiable Architecture Search: Bridging the Depth Gap Between Search and Evaluation [Video]	Xin Chen, Lingxi * * Xie, Jun Wu, Qi Tian	2397
 3	13:40	Multinomial Distribution Learning for Effective Neural Architecture Search [Video]	Xiawu Zheng, Rongrong Ji, Lang Tang, Baochang Zhang, Jianzhuang Liu, Qi Tian	1865
 4	13:48	Searching for MobileNetV3 [Video]	Andrew Howard, Mark Sandler, Grace Chu, Liang-Chieh Chen, Bo Chen, Mingxing Tan, Weijun Wang, Yukun Zhu, Ruoming Pang, Vijay Vasudevan, Quoc V. Le, Hartwig Adam	5162
 5	13:53	Data-Free Quantization Through Weight Equalization and Bias Correction [Video]	Markus Nagel, Mart van Baalen, Tijmen Blankevoort, Max Welling	6174
